@@ -1,0 +1,43 @@
+#container {
+    background-color: black;
+    height: 100vh;
+    border: 10  px solid firebrick;
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.heading{
+    margin: 40px;
+    font-size: 3vh;
+    color: firebrick;
+    text-align: center;
+}
+
+.main-heading{
+    padding-top: 5%;
+}
+
+.main-info{
+    display: flex;
+    margin: 40px;
+    color:firebrick
+}
+
+p{
+    margin-right: 50px;
+}
+
+.decoration{
+    font-weight: bolder;
+    color: darkgrey;;
+}
+.coder{
+    width: 40%;
+    height: auto;
+    
+}
+.google-link{
+    text-decoration: none;
+    font-size: 4vh;
+}
